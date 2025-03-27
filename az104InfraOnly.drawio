@@ -85,8 +85,63 @@
         <mxCell id="4VQiV0ycE3jQWibe9DLj-31" value="" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="570" y="-80" width="69" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="4VQiV0ycE3jQWibe9DLj-32" value="Az104" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-140" width="70" height="30" as="geometry" />
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-32" value="Az104" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="705" y="-140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="370" as="sourcePoint" />
+            <mxPoint x="540" y="-10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="341.76" />
+              <mxPoint x="80" y="291.76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.423;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4VQiV0ycE3jQWibe9DLj-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520" y="250" as="sourcePoint" />
+            <mxPoint x="-470" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-470" y="250" />
+              <mxPoint x="-520" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4VQiV0ycE3jQWibe9DLj-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-490" y="340" as="sourcePoint" />
+            <mxPoint x="-70" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="340" />
+              <mxPoint x="-490" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4VQiV0ycE3jQWibe9DLj-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="467" as="sourcePoint" />
+            <mxPoint x="640" y="417" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="467" />
+              <mxPoint x="590" y="417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-39" value="172.18.0.0/16,&#xa;172.29.0.0/16&#xa;10.0.0.0/16&#xa;10.224.0.0/12&#xa;172.16.0.0/16&#xa;10.0.0.0/16-duplicate&#xa;53.200.39.0/25 + 172.16.28.0/22&#xa;172.21.0.0/16" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-51.5" y="710" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-40" value="East US 2&#xa;172.19.0.0/16" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-41" value="NE&#xa;172.17.0.0/16&#xa;&#xa;&#xa;WE&#xa;10.0.0.0/16" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="38" y="-220" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-42" value="SEA&#xa;10.0.0.0/8&#xa;172.20.0.0/16&#xa;172.22.0.0/16" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="450" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4VQiV0ycE3jQWibe9DLj-44" value="East Asia&#xa;192.168.33.0/24&#xa;172.23.0.0/16" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-90" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
