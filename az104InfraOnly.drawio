@@ -459,7 +459,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4r0_WJJvqtdXUWdpl9aS" name="Log Analytics Workspace">
-    <mxGraphModel dx="634" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,6 +468,15 @@
         </mxCell>
         <mxCell id="jAUxB-ZycsxTL1IpGwOi-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="970" y="450" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="jAUxB-ZycsxTL1IpGwOi-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="jAUxB-ZycsxTL1IpGwOi-4" value="Data Collection Endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jAUxB-ZycsxTL1IpGwOi-5" value="Data Collection Endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="440" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
