@@ -490,13 +490,13 @@
           <mxGeometry x="-590" y="-12" width="120" height="362" as="geometry" />
         </mxCell>
         <mxCell id="2LH1RVqC8DqV5S0DzDKR-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/migrate/Recovery_Services_Vaults.svg;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-190" width="69" height="60" as="geometry" />
+          <mxGeometry x="-270" y="-170" width="69" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2LH1RVqC8DqV5S0DzDKR-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
-          <mxGeometry x="650" y="100" width="69" height="64" as="geometry" />
+          <mxGeometry x="20" y="196" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="2LH1RVqC8DqV5S0DzDKR-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-76" width="69" height="64" as="geometry" />
+          <mxGeometry x="20" y="20" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="2LH1RVqC8DqV5S0DzDKR-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
           <mxGeometry x="-557.88" y="-80" width="65" height="52" as="geometry" />
@@ -524,6 +524,48 @@
         </mxCell>
         <mxCell id="2LH1RVqC8DqV5S0DzDKR-16" value="Queue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-475" y="277.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-18" value="Recovery Service Vault" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310.5" y="-110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-19" value="Azure VM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="84" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-20" value="Azure VM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="14.5" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-21" value="Azure Storage Account" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="-110" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="40" as="sourcePoint" />
+            <mxPoint x="-410" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="230" as="sourcePoint" />
+            <mxPoint x="-410" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Backup_Vault.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-167.96" width="68" height="57.96" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-25" value="Backup Vault" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2LH1RVqC8DqV5S0DzDKR-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="110" as="sourcePoint" />
+            <mxPoint x="240" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-310" y="-10" />
+              <mxPoint x="-100" />
+              <mxPoint x="-120" y="-50" />
+              <mxPoint x="-140" y="-40" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
