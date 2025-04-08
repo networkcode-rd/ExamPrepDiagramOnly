@@ -482,10 +482,49 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cuqPXfZzXmf63aZkea6E" name="Recovery Service Vault">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-12" width="120" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/migrate/Recovery_Services_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-190" width="69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="100" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-76" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="-557.88" y="-80" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="-553" y="10" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_queue;" vertex="1" parent="1">
+          <mxGeometry x="-553" y="270" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_table;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="180" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Azure_Files.svg;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="100" width="49.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-13" value="Blob" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="17.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-14" value="File Share" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="105" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-15" value="Tables" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-16" value="Queue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="277.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
