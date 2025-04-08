@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.7" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.7" pages="5">
   <diagram name="VM Location Region" id="DYNFZNy9s7Flz7Rx167I">
     <mxGraphModel dx="3590" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -482,7 +482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cuqPXfZzXmf63aZkea6E" name="Recovery Service Vault">
-    <mxGraphModel dx="1932" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2168" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -567,6 +567,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-27" value="Region: East Asia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-595" y="-197.96" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-28" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="550.0000000000001" y="6.5" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-29" value="Restore Point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-28" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-30" value="Region: Central India" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="83.99999999999997" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.882;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2LH1RVqC8DqV5S0DzDKR-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="38" as="sourcePoint" />
+            <mxPoint x="380" y="-12" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="-70" />
+              <mxPoint x="330" y="-12" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LH1RVqC8DqV5S0DzDKR-32" value="Target" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-28" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A6ZD0Q9j4Juw3LKESVT-" name="App Service Deployment">
+    <mxGraphModel dx="1641" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
