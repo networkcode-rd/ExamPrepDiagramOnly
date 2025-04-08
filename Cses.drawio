@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Page-1" id="5HLphsOCei1pnHCIioXZ">
-    <mxGraphModel>
+    <mxGraphModel dx="2468" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="105" width="120" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="105" width="120" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-1" value="&lt;span style=&quot;color: rgb(50, 49, 48); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;172.23.38.4&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="168" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-2" value="&lt;span style=&quot;color: rgb(50, 49, 48); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;172.23.121.100&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-4" value="UDR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="180" as="sourcePoint" />
+            <mxPoint x="200" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-6" value="&lt;div class=&quot;ck-content&quot; style=&quot;--ck-image-style-spacing: 1.5em; --ck-inline-image-style-spacing: calc(var(--ck-image-style-spacing) / 2); --ck-color-selector-caption-background: hsl(0, 0%, 97%); --ck-color-selector-caption-text: hsl(0, 0%, 20%); font-family: Calibri; font-size: 11pt;&quot; data-wrapper=&quot;true&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;width:fit-content;&quot; width=&quot;fit-content&quot;&gt;172.23.121.4&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-7" value="&lt;div class=&quot;ck-content&quot; style=&quot;--ck-image-style-spacing: 1.5em; --ck-inline-image-style-spacing: calc(var(--ck-image-style-spacing) / 2); --ck-color-selector-caption-background: hsl(0, 0%, 97%); --ck-color-selector-caption-text: hsl(0, 0%, 20%); font-family: Calibri; font-size: 11pt;&quot; data-wrapper=&quot;true&quot; dir=&quot;ltr&quot;&gt;172.23.121.5&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-8" value="&lt;div class=&quot;ck-content&quot; style=&quot;--ck-image-style-spacing: 1.5em; --ck-inline-image-style-spacing: calc(var(--ck-image-style-spacing) / 2); --ck-color-selector-caption-background: hsl(0, 0%, 97%); --ck-color-selector-caption-text: hsl(0, 0%, 20%); font-family: Calibri; font-size: 11pt;&quot; data-wrapper=&quot;true&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;width:fit-content;&quot; width=&quot;fit-content&quot;&gt;172.23.122.4&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-9" value="&lt;div class=&quot;ck-content&quot; style=&quot;--ck-image-style-spacing: 1.5em; --ck-inline-image-style-spacing: calc(var(--ck-image-style-spacing) / 2); --ck-color-selector-caption-background: hsl(0, 0%, 97%); --ck-color-selector-caption-text: hsl(0, 0%, 20%); font-family: Calibri; font-size: 11pt;&quot; data-wrapper=&quot;true&quot; dir=&quot;ltr&quot;&gt;172.23.122.5&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-11" value="0.0.0.0/0" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-13" value="NVA-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-14" value="NVA-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-15" value="&lt;div class=&quot;ck-content&quot; style=&quot;--ck-image-style-spacing: 1.5em; --ck-inline-image-style-spacing: calc(var(--ck-image-style-spacing) / 2); --ck-color-selector-caption-background: hsl(0, 0%, 97%); --ck-color-selector-caption-text: hsl(0, 0%, 20%); font-family: Calibri; font-size: 12pt;&quot; data-wrapper=&quot;true&quot; dir=&quot;ltr&quot;&gt;4.188.108.151&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="198" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-16" value="&lt;div class=&quot;ck-content&quot; style=&quot;--ck-image-style-spacing: 1.5em; --ck-inline-image-style-spacing: calc(var(--ck-image-style-spacing) / 2); --ck-color-selector-caption-background: light-dark(hsl(0, 0%, 97%), #191919); --ck-color-selector-caption-text: light-dark(hsl(0, 0%, 20%), #c1c1c1); font-family: Calibri; font-size: 12pt;&quot; data-wrapper=&quot;true&quot; dir=&quot;ltr&quot;&gt;Internet&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="168" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="185" as="sourcePoint" />
+            <mxPoint x="930" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-18" value="Azure VM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="168" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-19" value="Az ILB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="203" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vh8sQGeVbPhFn9X_Nga-20" value="Az ELB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
