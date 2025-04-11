@@ -278,7 +278,7 @@
           <mxGeometry x="727.13" y="-60" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w0KHQj9pJF_UADy50dS0-66" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="1" vertex="1">
-          <mxGeometry x="240" y="730" width="65" height="52" as="geometry" />
+          <mxGeometry x="1290" y="570" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="w0KHQj9pJF_UADy50dS0-67" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Storage Account&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="782" width="140" height="30" as="geometry" />
@@ -339,6 +339,9 @@
         </mxCell>
         <mxCell id="w0KHQj9pJF_UADy50dS0-86" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" parent="1" vertex="1">
           <mxGeometry x="654.39" y="210" width="32.94" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6VlsTEtGvjUii9OPIiXl-1" value="Storage Account&lt;div&gt;Blob + File Share&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1262.5" y="634" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
